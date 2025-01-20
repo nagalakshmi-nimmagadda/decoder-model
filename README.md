@@ -43,6 +43,9 @@ Install dependencies with:
 ```bash
 pip install gradio transformers torch huggingface_hub
 
+## Saved Models
+https://huggingface.co/ninagala/shakespeare-model/tree/main
+
 ## Model Logs
 
 Epoch 1/10: 100%
