@@ -25,6 +25,19 @@ Ensure the following dependencies are installed:
 - Torch
 - Hugging Face Hub
 
+## Configuration
+
+onfig = {
+            'vocab_size': 18150,
+            'd_model': 1024,
+            'n_layers': 12,
+            'n_heads': 16,
+            'd_ff': 4096,
+            'max_seq_length': 256,
+            'dropout': 0.1,
+            'best_loss': 0.0913
+        }
+
 Install dependencies with:
 
 ```bash
